@@ -1,0 +1,54 @@
+.compgraph{
+    position: absolute;
+    width: 717px;
+    height: 525px;
+    left: 304px;
+    top: 491px;
+    border: 1px solid #EBF0F5;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+
+.compgraph__title{
+    position: absolute;
+    width: 172px;
+    height: 28px;
+    left: 30px;
+    top: 2px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    color: #1E272E;
+}
+
+
+
+.compgraph__title p{
+    position: absolute;
+    width: 395px;
+    height: 42px;
+    left: 2px;
+    top: 46px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: -0.02em;
+    color: #566474;
+}
+
+
+
+.compgraph img{
+    margin-top: 6rem;
+}
+
+.compgraph__title canvas{
+    width: 41rem!important;
+    height: 20rem !important;
+}

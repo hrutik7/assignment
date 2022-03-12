@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+
+.sidebar__container{
+    width: 17rem;
+    border-right: 1px #EBF0F5 ridge;
+    position: absolute;
+    margin-top: 4rem;
+    height: 100%;
+}
+.dashboard{
+    height: 3.5rem;
+    margin-top: 2rem;
+    margin-left: 0rem;
+}
+.internships{
+    height: 3.5rem;
+    margin-top: 0rem;
+    margin-left: 0rem;
+}
+
+.skill__test{
+    height: 3.5rem;
+    margin-top: 0rem;
+    margin-left: 0rem;
+}
+
+.dashboard img{
+    position: relative;
+    width: 24px;
+    /* height: 204px; */
+    left: 0px;
+    top: 14px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 15px;
+}
+
+
+
+.skill__test img{
+    position: relative;
+    width: 27px;
+    /* height: 20px; */
+    left: 0px;
+    top: 12px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 15px;
+}
+
+
+
+.internships img{
+    position: relative;
+    width: 20px;
+    /* height: 20px; */
+    left: 0px;
+    top: 10px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 15px;
+}
+
+
+.dashboard__content{
+    margin-left: 4rem;
+    margin-top: -2.5rem;
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+letter-spacing: -0.02em;
+
+color: #566474;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}

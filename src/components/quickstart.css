@@ -1,0 +1,150 @@
+.quick__stat__container{
+    position: absolute;
+    width: 717px;
+    height: 158px;
+    left: 306px;
+    top: 303px;
+    border: 1px solid #EBF0F5;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.quick__stat__title{
+    position: absolute;
+    width: 147px;
+    height: 28px;
+    left: 32px;
+    top: -2px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    color: #1E272E;
+}
+
+.quick__stat__logos{
+    display: flex;
+    float: left;
+}
+
+.trophy{
+    margin-left: -17.5rem;
+}
+.quick__stat__logos img{
+    margin-left: 19rem;
+    margin-top: 4rem;
+}
+
+.percentile{
+    margin-left: -17rem;
+}
+.correctAnswers{
+    margin-left: -13rem !important;
+
+}
+
+.trophy .stat__content{
+    margin-left: 24rem;
+    margin-top: -4rem;
+    width: 8rem;
+
+}
+
+.percentile .stat__content{
+    margin-left: 24rem;
+    margin-top: -4rem;
+}
+
+.correctAnswers .stat__content{
+    margin-left: 23rem;
+    margin-top: -4rem;
+    width: 12rem;
+}
+
+.correctAnswers .stat__content h3{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 29px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+/* primary text */
+
+color: #1E272E;
+}
+.correctAnswers .stat__content h4{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #9EAAB7;
+}
+
+.percentile .stat__content h3{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 29px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+/* primary text */
+
+color: #1E272E;
+}
+
+.percentile .stat__content h4{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #9EAAB7;
+}
+
+
+.trophy .stat__content h3{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 29px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+/* primary text */
+
+color: #1E272E;
+}
+
+
+
+.trophy .stat__content h4{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #9EAAB7;
+}

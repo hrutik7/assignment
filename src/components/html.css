@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+
+.html__container{
+    position: absolute;
+    width: 717px;
+    height: 109px;
+    left: 310px;
+    top: 124px;
+    border: 1px solid #EBF0F5;
+    box-sizing: border-box;
+    border-radius: 10px;
+
+}
+
+
+.html__container img {
+    position: absolute;
+    left: 5%;
+    right: 90.54%;
+    top: 25%;
+    bottom: 0%;
+}
+
+
+.html__title{
+    position: absolute;
+left: 14.89%;
+right: 28.72%;
+top: 6%;
+bottom: 56%;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #222F3E;
+}
+
+
+.html__subtitle{
+    position: absolute;
+    width: 388px;
+    height: 22px;
+    left: 106px;
+    top: 39px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 180%;
+    letter-spacing: -0.02em;
+    color: #566474;
+}
+
+
+.html__btn button{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+    position: absolute;
+    width: 120px;
+    height: 44px;
+    left: 558px;
+    top: 31px;
+    background: #142683;
+    border-radius: 5px;
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 28px;
+/* identical to box height, or 200% */
+cursor: pointer;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+}
+
+
+
+.update__skills__score{
+    position: absolute;
+width: 880px;
+height: 521px;
+z-index: 1;
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.update__skills__title{
+    position: absolute;
+    width: 537px;
+    height: 11px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 47px;
+    letter-spacing: -0.02em;
+    color: #222F3E;
+    margin-left: 3rem;
+}
+
+.html__logo{
+    margin-right: 0.5rem !important;
+}
+
+.html__logo img {
+    margin-left: 46.5rem !important;
+    margin-top: -6rem;
+}
+
+
+.html__skills__subtitle p{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 27px */
+
+letter-spacing: -0.02em;
+
+/* secondary text */
+
+color: #566474;
+}
+
+
+.html__skills__subtitle{
+    margin-top: 10rem !important;
+    margin-left: 7rem !important;
+}
+
+.html__skills__subtitle li::marker{
+    position: absolute;
+width: 25px;
+height: 24.11px;
+
+background: #142683;
+}
+
+.dot_1{
+    position: absolute;
+    width: 25px;
+    height: 24.11px;
+    border-radius: 100px;
+    background: #142683;
+    margin-left: -5rem;
+}
+
+.dot_2{
+    position: absolute;
+    width: 25px;
+    height: 24.11px;
+    border-radius: 100px;
+    background: #142683;
+    margin-left: -5rem;
+    margin-top: 3rem;
+}
+
+
+.dot_3{
+    position: absolute;
+    width: 25px;
+    height: 24.11px;
+    border-radius: 100px;
+    background: #142683;
+    margin-left: -5rem;
+    margin-top: 3rem;
+}
+
+
+.html__skills__subtitle button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    position: absolute;
+    width: 157px;
+    height: 44px;
+    border: 1px solid #142683;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 31rem;
+    margin-top: -4rem;
+border-radius: 5px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+letter-spacing: -0.02em;
+
+color: #142683;
+}
+
+
+#cancel__btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    position: absolute;
+    width: 85px;
+    height: 44px;
+    border: 1px solid #142683;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 34rem;
+    margin-top: 2rem;
+
+
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+letter-spacing: -0.02em;
+cursor: pointer;
+color: #142683;
+}
+
+
+
+
+
+
+
+#save{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    position: absolute;
+    width: 92px;
+    height: 44px;
+    background: #142683;
+    border-radius: 5px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+    margin-left: 43rem;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+
+
+
+#save img{
+    margin-left: 4rem;
+    margin-top: 3px;
+}

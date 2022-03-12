@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+
+.logo{
+    
+position: absolute;
+width: 120px;
+height: 29.24px;
+left: 40px;
+top: 28px;
+
+}
+
+
+.user__info{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* padding: 10px; */
+    position: absolute;
+    left: 79.34%;
+    right: 3.04%;
+    top: 15%;
+    bottom: 0%;
+    width: 235px;
+    height: 53px;
+    border: 1px solid #EBF0F5;
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+
+.user__info img{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    left: -80px;
+    top: 9px;
+    border-radius: 37.32px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}
+
+
+.user__name{
+    position: relative;
+    width: 108px;
+    height: 31px;
+    left: 1288px;
+    top: 12px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    color: #1E272E;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 12px 10px;
+}
+
+
+.navbar__container{
+    height: 4rem;
+    position: absolute;
+    width: 1519px;
+    left: 0px;
+    border-bottom: 1px #EBF0F5 ridge;
+
+
+}

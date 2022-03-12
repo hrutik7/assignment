@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+
+.syllabus__container{
+    position: absolute;
+    width: 386px;
+    height: 458px;
+    left: 1067px;
+    top: 124px;
+    border: 1px solid #EBF0F5;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+
+.syllabus__heading{
+    position: absolute;
+    width: 194px;
+    height: 28px;
+    left: 26px;
+    top: 3px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    color: #1E272E;
+}
+
+
+
+.syllabus__content p:nth-child(1){
+    position: absolute;
+    width: 196px;
+    height: 21px;
+    left: 29px;
+    top: 47px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    color: #566474;
+}
+
+
+.syllabus__content p:nth-child(2){
+    position: absolute;
+    width: 196px;
+    height: 21px;
+    left: 29px;
+    top: 147px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    color: #566474;
+}
+
+
+.syllabus__content p:nth-child(3){
+    position: absolute;
+    width: 196px;
+    height: 21px;
+    left: 29px;
+    top: 147px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    color: #566474;
+}
+
+
+.syllabus__content p:nth-child(4){
+    position: absolute;
+    width: 196px;
+    height: 21px;
+    left: 29px;
+    top: 347px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    color: #566474;
+}
+
+.syllabus__content p:nth-child(5){
+    position: absolute;
+    width: 196px;
+    height: 21px;
+    left: 29px;
+    top: 247px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    color: #566474;
+}
+
+
+
+.syllabus__content p:nth-child(6){
+    position: absolute;
+    width: 196px;
+    height: 21px;
+    left: 29px;
+    top: 347px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    color: #566474;
+}
+
+.syllabus__content p:nth-child(7){
+    position: absolute;
+    width: 196px;
+    height: 21px;
+    left: 29px;
+    top: 347px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    color: #566474;
+}

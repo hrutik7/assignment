@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+
+.wrapper {
+    margin-top: 120px;
+    margin-left: 30px;
+  }
+
+  .wrapper_1 {
+    margin-top: 90px;
+    margin-left: 30px;
+  }
+  .wrapper_2 {
+    margin-top: 90px;
+    margin-left: 30px;
+  }
+
+  .wrapper_3 {
+    margin-top: 70px;
+    margin-left: 30px;
+  }
+  
+  .container {
+    background: rgb(236, 242, 255);
+    /* opacity: 0.1; */
+    border-radius: 100px;
+    width: 68%;
+    height: 13px;
+  }
+  
+  .container_1 {
+    background: rgb(254, 244, 237);
+    /* opacity: 0.1; */
+    border-radius: 100px;
+    width: 68%;
+    height: 13px;
+  }
+
+  
+  .container_2 {
+    background: rgb(254, 239, 238);
+    /* opacity: 0.1; */
+    border-radius: 100px;
+    width: 68%;
+    height: 13px;
+  }
+  .container_3 {
+    background: rgb(234, 251, 240);
+    /* opacity: 0.1; */
+    border-radius: 100px;
+    width: 68%;
+    height: 13px;
+  }
+
+  .barCompleted {
+    background-color: #438AF6;
+    width: 80%;
+    border-radius: 100px;
+    height: 13px;
+}
+
+.barCompleted_1 {
+    background: #FF9142;
+    width: 60%;
+    border-radius: 100px;
+    height: 13px;
+}
+
+
+.barCompleted_2 {
+  background: #FB5E5E;
+  width: 20%;
+  border-radius: 100px;
+  height: 13px;
+}
+
+.barCompleted_3 {
+   background: #2EC971;
+  width: 96%;
+  border-radius: 100px;
+  height: 13px;
+}
+  
+  
+  .label {
+    position: absolute;
+    width: 35px;
+    height: 28px;
+    left: 318px;
+    top: 112px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    color: #438AF6;
+  }
+
+
+  .label_1 {
+    position: absolute;
+    width: 35px;
+    height: 28px;
+    left: 318px;
+    top: 212px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    color: #FF9142 !important;
+  }
+
+  .label_2 {
+    position: absolute;
+    width: 35px;
+    height: 28px;
+    left: 318px;
+    top: 312px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    color: #FB5E5E !important;
+  }
+
+
+  .label_3 {
+    position: absolute;
+    width: 35px;
+    height: 28px;
+    left: 318px;
+    top: 400px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    color: #2EC971 !important;
+  }
